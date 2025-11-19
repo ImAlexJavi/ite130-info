@@ -11,3 +11,11 @@
     background-color: #FF4800 !important;
     border-radius: 5em !important;
 }
+
+.bg-fact{
+    background-color: #F5E0C8 !important;
+}
+
+.border-fact{
+    border-color: #F5E0C8 !important;
+}
